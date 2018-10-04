@@ -3,7 +3,7 @@ body{
 }
 
 .modal-login {
-width: 450px;
+width: 400px;
 }
 .modal-login .modal-content {
 padding: 20px;
@@ -58,4 +58,8 @@ border: none;
 
 .btn:hover{
 background: #9c5ce0;
+}
+
+.modal-title{
+  padding-left: 90px;
 }

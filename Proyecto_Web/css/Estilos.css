@@ -2,6 +2,19 @@ body{
   font-family: 'Quicksand', 'sans-serif';
 }
 
+/*Estilos para el index.html*/
+.carousel .item{
+  height: 500px;
+}
+
+.item img{
+  position: absolute;
+  top: 10;
+  left: 0;
+  min-height: 300px;
+}
+
+/* Estilos para el login*/
 .modal-login {
 width: 400px;
 }

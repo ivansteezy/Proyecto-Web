@@ -64,7 +64,8 @@
 
 	<div class="container">
 
-		<h1 align="Center">Hip Hop</h1>
+
+		<h1 align="Center">Pop</h1>
 
 
 		<div class="row">
@@ -74,11 +75,11 @@
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
-						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+						<img src="Imagenes/BlackEyedPeas.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
-							<h2>Planet</h2>
-							<h3>Tech N9ne</h3>
+							<h2>The END</h2>
+							<h3>The Black Eyed Peas</h3>
 						</div>
 
 					</div>
@@ -93,11 +94,11 @@
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
-						<img src="Imagenes/Hopsin.jpg" style="width: 150px; height: 150px;">
+						<img src="Imagenes/BrunoMars.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
-							<h2>Pound Syndrome</h2>
-							<h3>Hopsin</h3>
+							<h2>Unorthodox Jukebox</h2>
+							<h3>Bruno Mars</h3>
 						</div>
 
 					</div>
@@ -112,11 +113,11 @@
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
-						<img src="Imagenes/LupeFiasco.jpg" style="width: 150px; height: 150px;">
+						<img src="Imagenes/Ariana.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
-							<h2>Food & Liquor</h2>
-							<h3>Lupe Fiasco</h3>
+							<h2>My Everything</h2>
+							<h3>Ariana Grande</h3>
 						</div>
 
 					</div>
@@ -131,11 +132,11 @@
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
-						<img src="Imagenes/Eminem.jpg" style="width: 150px; height: 150px;">
+						<img src="Imagenes/Adele.png" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
-							<h2>Kamikaze</h2>
-							<h3>Eminem</h3>
+							<h2>25</h2>
+							<h3>Adele </h3>
 						</div>
 
 					</div>
@@ -150,11 +151,11 @@
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
-						<img src="Imagenes/KrizzKaliko.jpg" style="width: 150px; height: 150px;">
+						<img src="Imagenes/Sam.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
-							<h2>Neh'mind</h2>
-							<h3>Krizz Kaliko</h3>
+							<h2>In the Lonely Hour</h2>
+							<h3>Sam Smith</h3>
 						</div>
 
 					</div>

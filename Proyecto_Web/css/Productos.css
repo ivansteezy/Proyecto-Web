@@ -1,0 +1,8 @@
+.Producto {
+    padding: 20px;
+    transition: transform .2s;
+}
+
+.Producto:hover {
+     transform: scale(1.2); 
+}

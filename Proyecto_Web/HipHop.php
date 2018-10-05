@@ -6,6 +6,7 @@
 
 	<title>Rap</title>
 
+
 	<link rel="stylesheet" href="css/bootstrap.css">
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <script src="js/jquery.min.js"></script>
@@ -14,6 +15,7 @@
  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   	<link rel="stylesheet" type="text/css" href="css/Productos.css">
+
 
 </head>
 <body>
@@ -69,20 +71,49 @@
 
 		<div class="row">
 
+			<form action="Individuales.php" method="POST">
+
+				<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
+							<a href="" class="Producto" style="text-decoration: none"> 
+								<div class="thumnail Producto">
+									
+									<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+
+									<div class="caption" align="Left">
+										<h2>Planet</h2>
+										<h3>Tech N9ne</h3>
+									</div>
+
+								</div>
+							</a>
+
+						</button>
+
+			</div>
+
+
+
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 
-				<a href="" class="Producto" style="text-decoration: none">
-					<div class="thumnail Producto">
-						
-						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+				<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
 
-						<div class="caption" align="Left">
-							<h2>Planet</h2>
-							<h3>Tech N9ne</h3>
+					<a href="" class="Producto" style="text-decoration: none">
+						<div class="thumnail Producto">
+							
+							<img src="Imagenes/Hopsin.jpg" style="width: 150px; height: 150px;">
+
+							<div class="caption" align="Left">
+								<h2>Pound Syndrome</h2>
+								<h3>Hopsin</h3>
+							</div>
+
 						</div>
+					</a>
 
-					</div>
-				</a>
+			</button>
 
 			</div>
 
@@ -90,24 +121,7 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 
-				<a href="" class="Producto" style="text-decoration: none">
-					<div class="thumnail Producto">
-						
-						<img src="Imagenes/Hopsin.jpg" style="width: 150px; height: 150px;">
-
-						<div class="caption" align="Left">
-							<h2>Pound Syndrome</h2>
-							<h3>Hopsin</h3>
-						</div>
-
-					</div>
-				</a>
-
-			</div>
-
-
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
@@ -128,6 +142,8 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
@@ -146,6 +162,8 @@
 
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
@@ -166,63 +184,7 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 
-				<a href="" class="Producto" style="text-decoration: none">
-					<div class="thumnail Producto">
-						
-						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
-
-						<div class="caption" align="Left">
-							<h2>Planet</h2>
-							<h3>Tech N9ne</h3>
-						</div>
-
-					</div>
-				</a>
-
-			</div>
-
-			<!--___________________________________________________________________________ -->
-
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-
-				<a href="" class="Producto" style="text-decoration: none">
-					<div class="thumnail Producto">
-						
-						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
-
-						<div class="caption" align="Left">
-							<h2>Planet</h2>
-							<h3>Tech N9ne</h3>
-						</div>
-
-					</div>
-				</a>
-
-			</div>
-
-
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-
-				<a href="" class="Producto" style="text-decoration: none">
-					<div class="thumnail Producto">
-						
-						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
-
-						<div class="caption" align="Left">
-							<h2>Planet</h2>
-							<h3>Tech N9ne</h3>
-						</div>
-
-					</div>
-				</a>
-
-			</div>
-
-
-
-			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
@@ -244,6 +206,8 @@
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
 
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
 						
@@ -261,6 +225,70 @@
 
 
 
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
+				<a href="" class="Producto" style="text-decoration: none">
+					<div class="thumnail Producto">
+						
+						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+
+						<div class="caption" align="Left">
+							<h2>Planet</h2>
+							<h3>Tech N9ne</h3>
+						</div>
+
+					</div>
+				</a>
+
+			</div>
+
+
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
+				<a href="" class="Producto" style="text-decoration: none">
+					<div class="thumnail Producto">
+						
+						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+
+						<div class="caption" align="Left">
+							<h2>Planet</h2>
+							<h3>Tech N9ne</h3>
+						</div>
+
+					</div>
+				</a>
+
+			</div>
+
+			<!--___________________________________________________________________________ -->
+
+
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
+
+						<button type="submit" name="Tech" value="Tech" class="Boton" style="background-color: white; border: none">
+
+				<a href="" class="Producto" style="text-decoration: none">
+					<div class="thumnail Producto">
+						
+						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
+
+						<div class="caption" align="Left">
+							<h2>Planet</h2>
+							<h3>Tech N9ne</h3>
+						</div>
+
+					</div>
+				</a>
+
+			</div>
+
+
+		</form>
 
 		</div>
 

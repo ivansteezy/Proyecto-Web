@@ -1,8 +1,13 @@
 .Producto {
-    padding: 20px;
+    padding: 50px;
     transition: transform .2s;
+    background-color: red;
 }
 
 .Producto:hover {
      transform: scale(1.2); 
+}
+
+.Boton{
+
 }

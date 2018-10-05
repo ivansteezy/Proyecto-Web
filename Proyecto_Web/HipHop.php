@@ -42,7 +42,7 @@
 
                     </ul>
                </li>
-               
+
                 <li class="nav-item">
                   <a href="CrearCuenta.php" class="nav-link">Nosotros</a>
                 </li>
@@ -70,10 +70,10 @@
 		<div class="row">
 
 			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6">
-
-				<a href="" class="Producto" style="text-decoration: none">
+				<form class="TechN9ne" action="tech.php" method="post">
+				<a type="submit" href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -83,7 +83,7 @@
 
 					</div>
 				</a>
-
+</form>
 			</div>
 
 
@@ -92,7 +92,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/Hopsin.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -111,7 +111,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/LupeFiasco.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -130,7 +130,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/Eminem.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -149,7 +149,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/KrizzKaliko.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -168,7 +168,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -188,7 +188,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -207,7 +207,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -226,7 +226,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -246,7 +246,7 @@
 
 				<a href="" class="Producto" style="text-decoration: none">
 					<div class="thumnail Producto">
-						
+
 						<img src="Imagenes/TechN9ne.jpg" style="width: 150px; height: 150px;">
 
 						<div class="caption" align="Left">
@@ -265,10 +265,10 @@
 		</div>
 
 
-			
+
 		</div>
 
-		
+
 
 
 	</div>

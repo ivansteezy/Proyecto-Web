@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="css/Estilos.css">
 </head>
 
-<body>
+<body style="background-image: url(https://66.media.tumblr.com/205d264158150fba052dc05e6f8bbfcf/tumblr_ns4775lh7M1u6fg98o1_1280.jpg);">
 	<div class="modal-dialog modal-login">
   		<div class="modal-content">
   			<div class="modal-header">
@@ -32,7 +32,7 @@
   			</div>
 
   			<div class="modal-footer">
-  				<a href="#">¿Ha olvidado la contraseña?</a>
+  				<a href="CrearCuenta.php">¿No tienes cuenta? ¡Registrate!</a>
   			</div>
   		</div>
 	</div>

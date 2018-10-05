@@ -2,6 +2,60 @@ body{
   font-family: 'Quicksand', 'sans-serif';
 }
 
-.jumbotron{
-  margin-bottom: 0px;
+.modal-login {
+width: 450px;
+}
+.modal-login .modal-content {
+padding: 20px;
+border-radius: 5px;
+border: none;
+}
+
+.modal-login h4 {
+text-align: center;
+font-size: 26px;
+margin: 30px 0 -15px;
+}
+
+.modal-footer {
+background: #ecf0f1;
+border-color: #dee4e7;
+text-align: center;
+justify-content: center;
+margin: 0 -20px -20px;
+font-size: 13px;
+}
+
+.modal-footer a {
+color: #999;
+}
+
+.avatar{
+position: absolute;
+margin: 0 auto;
+left: 0;
+right: 0;
+top: -40px;
+width: 100px;
+height: 100px;
+border-radius: 100%;
+background: #7532bc;
+padding: 15px;
+}
+
+.modal-login .avatar img {
+width: 100%;
+}
+
+.modal-login.modal-dialog {
+margin-top: 80px;
+}
+
+.btn {
+background: #7532bc;
+border: none;
+}
+
+.btn:hover{
+background: #9c5ce0;
 }

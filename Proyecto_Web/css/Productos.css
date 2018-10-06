@@ -1,11 +1,10 @@
 .Producto {
     padding: 50px;
     transition: transform .2s;
-    background-color: red;
 }
 
 .Producto:hover {
-     transform: scale(1.2); 
+     transform: scale(1.2);
 }
 
 .Boton{
